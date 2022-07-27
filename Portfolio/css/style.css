@@ -55,3 +55,19 @@ hr {
     box-sizing: border-box;
     width: 100%;
 }
+
+li p:hover {
+    color: #aaa;
+}
+
+li a i:hover {
+    color: #aaa;
+}
+
+.icones:hover {
+    color: cadetblue;
+}
+
+a {
+    text-decoration: none;
+}
