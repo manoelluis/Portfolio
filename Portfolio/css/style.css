@@ -12,6 +12,12 @@
     }
 }
 
+@media (max-width: 575.98px) {
+    .navbar .navbar-brand {
+        font-size: 0.8em;
+    }
+}
+
 .b-example-divider {
     height: 3rem;
     background-color: rgba(0, 0, 0, 0.1);
