@@ -18,6 +18,13 @@
     }
 }
 
+@media (max-width: 575.98px) {
+    #setas {
+        width: 35px;
+        margin-bottom: -7px;
+    }
+}
+
 .b-example-divider {
     height: 3rem;
     background-color: rgba(0, 0, 0, 0.1);
